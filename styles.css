@@ -1,15 +1,19 @@
 #heading{
-	background-color:purple;
-	width:200px;
+	
 	font-size:20px;
+	
+
+
+}
+h1{
 	color:white;
-	border-left-width: 5px;
-	border-left-color:green;
-padding:10px;
 }
 div{
-	
+	background-color:purple;
+	width:200px;
+padding:10px;
 }
 .main{
-	
+		border-left-width: 5px;
+	border-left-color:green;
 }
