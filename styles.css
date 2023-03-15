@@ -3,12 +3,12 @@
 	width:200px;
 	font-size:20px;
 	color:white;
-	left-border: 5px;
+	border-left-width: 5px;
 	border-color:green;
-
+padding:10px;
 }
 div{
-padding:10px;	
+	
 }
 .main{
 	
