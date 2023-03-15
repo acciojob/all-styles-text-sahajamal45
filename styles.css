@@ -1,20 +1,17 @@
 #heading{
 	
-	font-size:20px;
-	
-
-
 }
 h1{
 	color:white;
+padding:10px;
+	font-size:20px;
 }
 div{
-			border-left-width: 5px;
+	border-left-width: 5px;
 	border-left-color:green;
-
 	background-color:purple;
 	width:200px;
-padding:10px;
+
 }
 .main{
 }
