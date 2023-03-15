@@ -1,6 +1,6 @@
-.container{
+#heading{
 	background-color:purple;
-	width:400px;
+	width:200px;
 	font-size:20px;
 	color:white;
 	left-border: 5px;
@@ -9,9 +9,6 @@
 }
 div{
 padding:10px;	
-}
-#heading{
-	
 }
 .main{
 	
