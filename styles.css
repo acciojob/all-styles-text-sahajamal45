@@ -9,11 +9,12 @@ h1{
 	color:white;
 }
 div{
+			border-left-width: 5px;
+	border-left-color:green;
+
 	background-color:purple;
 	width:200px;
 padding:10px;
 }
 .main{
-		border-left-width: 5px;
-	border-left-color:green;
 }
